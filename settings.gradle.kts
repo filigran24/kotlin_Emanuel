@@ -1,2 +1,2 @@
-rootProject.name = "kotlin2"
+rootProject.name = "kotlin3"
 
